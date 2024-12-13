@@ -1,0 +1,14 @@
+{
+  "entryPoints": ["lib"],
+  "out": "docs",
+  "tsconfig": "tsconfig.json",
+  "includeVersion": true,
+  "excludePrivate": true,
+  "excludeExternals": true,
+  "categorizeByGroup": false,
+  "readme": "README.md",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "strictNullChecks": false
+  }
+}

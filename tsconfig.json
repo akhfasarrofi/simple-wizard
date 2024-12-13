@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["DOM", "esnext"]
+  },
+  "extends": "@total-typescript/tsconfig/bundler/no-dom/library"
+}
