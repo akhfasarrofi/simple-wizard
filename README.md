@@ -1,6 +1,6 @@
 <h3 align="center">All in one helper and custom form <br /> Made with love ❤️ </h3>
 
-This package provides custom components from Ant Design and also several frequently used helpers such as isEmpty, isNull, and others. These are designed to speed up and simplify your Ant Design-based web application development process. Additionally, it reduces the need to write excessive code to create components.
+This package provides several frequently used helpers such as isEmpty, isNull, and others. These are designed to speed up and simplify your development process. Additionally, it reduces the need to write excessive code to create components.
 
 ## ⚙️ Install
 
