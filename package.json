@@ -1,6 +1,6 @@
 {
   "name": "simple-wizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight and versatile utility library for JavaScript and TypeScript, designed to simplify development tasks with clean and reusable helper functions.",
   "author": "dopassss",
   "license": "MIT",
@@ -31,7 +31,6 @@
     "dev:docs": "http-server docs",
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
-    "changeset": "changeset",
     "changeset-v": "changeset version",
     "release": "changeset publish",
     "postversion": "git push origin --tags"
