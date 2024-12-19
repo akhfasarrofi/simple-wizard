@@ -30,13 +30,7 @@
     "build:docs": "typedoc src/index.ts",
     "dev:docs": "http-server docs",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix",
-    "changeset-v": "changeset version",
-    "release": "changeset publish",
-    "postversion": "git push origin --tags"
-  },
-  "dependencies": {
-    "@changesets/cli": "^2.27.10"
+    "lint:fix": "eslint --fix"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.8.0",
